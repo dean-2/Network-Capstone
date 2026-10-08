@@ -1,0 +1,5 @@
+# Build outputs
+/bserve
+/bcurL
+/tests/test_protocol
+*.o
